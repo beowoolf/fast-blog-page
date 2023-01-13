@@ -30,7 +30,7 @@
     "cookie-universal-nuxt": "^2.2.2",
     "core-js": "^3.27.1",
     "nuxt": "^2.15.8",
-    "nuxt-jsonld": "v1",
+    "nuxt-jsonld": "v2",
     "prism-themes": "^1.9.0"
   },
   "devDependencies": {
