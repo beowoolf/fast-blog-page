@@ -1,7 +1,7 @@
 <template>
   <div>
     <ShowPosts v-if="posts.length > 0" :posts="posts"
-      >Wpisy na blogu w 2024</ShowPosts
+      >Wpisy na blogu w 2025</ShowPosts
     >
     <div v-else class="text-center">
       <strong>Nie udało się załadować wpisów z bloga</strong>
