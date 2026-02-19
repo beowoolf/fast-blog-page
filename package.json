@@ -33,7 +33,7 @@
     "@nuxt/image": "^0.7.2",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
-    "@nuxtjs/sitemap": "^2.4.0",
+    "@nuxtjs/sitemap": "^5.3.5",
     "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1",
     "cookie-universal-nuxt": "^2.2.2",
